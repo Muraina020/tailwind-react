@@ -55,7 +55,7 @@ const Footer = () => {
             </div>
         </div>
         <div className='flex flex-col max-w-[1240px] mx-auto justify-between px-2 py-4 sm:flex-row text-gray-400'>
-            <p className='py-4 text-center '>28th of May,2023 Workflow Ski-tech. All right reserved</p>
+            <p className='py-4 text-center '>28th of May, 2023 Workflow Ski-tech. All right reserved</p>
             <div className='flex justify-between sm:w-[300px] text-2xl pt-4'>
                 <FaFacebook/>
                 <FaGithub/>
